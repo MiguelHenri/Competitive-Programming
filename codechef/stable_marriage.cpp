@@ -2,6 +2,8 @@
 #include <vector>
 using namespace std;
 
+//https://www.codechef.com/problems/STABLEMP
+
 #define ll long long
 #define vi vector<int>
 #define vll vector<long long>
